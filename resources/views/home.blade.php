@@ -1,7 +1,7 @@
 @extends('layouts.shared')
 @section('main')
 
-{{-- this is  home page  --}}
+{{-- this is  home page  after fetching data from updation branch this is main update --}}
 
  <div class="container pb-5">
         <div class="row justify-content-center d-flex">
