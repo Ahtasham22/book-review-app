@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
 </head>
 <body>
+    {{-- lay outs  --}}
     <div class="container-fluid shadow-lg header">
         <div class="container">
             <div class="d-flex justify-content-between">

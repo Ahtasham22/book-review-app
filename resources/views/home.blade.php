@@ -1,6 +1,8 @@
 @extends('layouts.shared')
 @section('main')
 
+{{-- this is  home page  --}}
+
  <div class="container pb-5">
         <div class="row justify-content-center d-flex">
             <div class="col-md-12">
