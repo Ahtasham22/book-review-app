@@ -1,6 +1,8 @@
 @extends('layouts.shared')
 @section('main')
-    
+
+{{-- book detail page  --}}
+
 <div class="container-fluid shadow-lg header ">
         <div class="container">
             <div class="d-flex justify-content-between">
